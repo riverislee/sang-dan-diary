@@ -10,8 +10,9 @@
     {
       "id": "상관",
       "displayName": "상관",
-      "color": "#4FA0D9",
-      "avatar": null
+      "color": "#7FA26E",
+      "avatar": null,
+      "bgColor": "#fdf1f3"
     }
   ]
 }
