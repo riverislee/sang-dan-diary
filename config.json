@@ -6,6 +6,12 @@
       "color": "#4FA0D9",
       "bgColor": "#eef2fb",
       "avatar": null
+    },
+    {
+      "id": "상관",
+      "displayName": "상관",
+      "color": "#4FA0D9",
+      "avatar": null
     }
   ]
 }
