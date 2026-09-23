@@ -20,11 +20,6 @@
           "icon": "💊"
         },
         {
-          "key": "outing",
-          "label": "외출/운동",
-          "icon": "🚶"
-        },
-        {
           "key": "학교",
           "label": "학교",
           "icon": "🏫"
