@@ -5,7 +5,34 @@
       "displayName": "단나",
       "color": "#4FA0D9",
       "bgColor": "#eef2fb",
-      "avatar": null
+      "avatar": null,
+      "checklistFields": [
+        {
+          "key": "medication",
+          "label": "약",
+          "icon": "💊"
+        },
+        {
+          "key": "outing",
+          "label": "외출/운동",
+          "icon": "🚶"
+        },
+        {
+          "key": "cleaning",
+          "label": "청소",
+          "icon": "🧹"
+        },
+        {
+          "key": "delivery",
+          "label": "배달 주문",
+          "icon": "🛵"
+        },
+        {
+          "key": "그림",
+          "label": "그림",
+          "icon": "📝"
+        }
+      ]
     },
     {
       "id": "상관",
