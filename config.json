@@ -23,11 +23,6 @@
           "icon": "🧹"
         },
         {
-          "key": "delivery",
-          "label": "배달 주문",
-          "icon": "🛵"
-        },
-        {
           "key": "그림",
           "label": "그림",
           "icon": "📝"
