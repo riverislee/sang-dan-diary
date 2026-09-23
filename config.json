@@ -25,11 +25,6 @@
           "icon": "🚶"
         },
         {
-          "key": "cleaning",
-          "label": "청소",
-          "icon": "🧹"
-        },
-        {
           "key": "학교",
           "label": "학교",
           "icon": "🏫"
