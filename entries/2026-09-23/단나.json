@@ -13,7 +13,11 @@
     "cleaning": false,
     "그림": true
   },
-  "reactions": {},
+  "reactions": {
+    "👍": [
+      "상관"
+    ]
+  },
   "comments": [
     {
       "id": "fbf01bea-4d89-4f13-a05c-53b249ac7e76",
@@ -24,5 +28,5 @@
     }
   ],
   "createdAt": "2026-09-24T00:55:57.504Z",
-  "updatedAt": "2026-09-24T05:04:22.783Z"
+  "updatedAt": "2026-09-24T05:04:44.169Z"
 }
