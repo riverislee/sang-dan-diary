@@ -16,8 +16,12 @@
     "그림커미션": true,
     "외출": true
   },
-  "reactions": {},
+  "reactions": {
+    "👍": [
+      "단나"
+    ]
+  },
   "comments": [],
   "createdAt": "2026-09-24T14:57:23.019Z",
-  "updatedAt": "2026-09-24T15:11:31.189Z"
+  "updatedAt": "2026-09-25T11:34:42.331Z"
 }
