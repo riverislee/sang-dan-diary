@@ -8,11 +8,6 @@
       "avatar": null,
       "checklistFields": [
         {
-          "key": "cleaning",
-          "label": "청소",
-          "icon": "🧹"
-        },
-        {
           "key": "그림",
           "label": "그림",
           "icon": "📝"
