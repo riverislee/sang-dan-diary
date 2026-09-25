@@ -9,9 +9,10 @@
   "images": [],
   "checklist": {
     "sleepHours": null,
-    "outing": false,
-    "cleaning": false,
-    "그림": true
+    "그림": true,
+    "운동": false,
+    "학교": true,
+    "알바": false
   },
   "reactions": {
     "👍": [
@@ -37,5 +38,5 @@
     }
   ],
   "createdAt": "2026-09-24T00:55:57.504Z",
-  "updatedAt": "2026-09-24T05:04:49.329Z"
+  "updatedAt": "2026-09-25T11:33:45.147Z"
 }
