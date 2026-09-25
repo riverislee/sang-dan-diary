@@ -11,12 +11,13 @@
   "images": [],
   "checklist": {
     "sleepHours": null,
-    "outing": false,
-    "cleaning": false,
-    "그림": false
+    "그림": false,
+    "운동": false,
+    "학교": false,
+    "알바": false
   },
   "reactions": {},
   "comments": [],
   "createdAt": "2026-09-25T11:30:56.000Z",
-  "updatedAt": "2026-09-25T11:31:31.439Z"
+  "updatedAt": "2026-09-25T11:34:11.059Z"
 }
